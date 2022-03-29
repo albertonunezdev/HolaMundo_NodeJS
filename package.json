@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "0.0.1",
+  "description": "Mi primer Hola Mundo!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Núñez",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
